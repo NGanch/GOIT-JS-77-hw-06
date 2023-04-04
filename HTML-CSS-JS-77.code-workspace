@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "HTML-CSS-JS-77",
+			"path": "."
+		},
+		{
+			"name": ".vscode",
+			"path": "../../Dom homework 1 /.vscode"
+		},
+		{
+			"name": "js",
+			"path": "../../Dom homework 1 /js"
+		},
+		{
+			"name": "css",
+			"path": "../../Dom homework 1 /css"
+		}
+	],
+	"settings": {}
+}
